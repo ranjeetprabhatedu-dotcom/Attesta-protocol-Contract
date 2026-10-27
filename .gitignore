@@ -6,7 +6,7 @@ Cargo.lock
 # Proving keys are large reproducible artifacts; regenerate with
 # circuits/scripts/build-artifacts.sh
 circuits/artifacts/*/proving_key.bin
-.env
 .stellar/
 .soroban/
 node_modules/
+config.bat
